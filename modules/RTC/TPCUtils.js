@@ -9,9 +9,9 @@ import browser from '../browser';
 import FeatureFlags from '../flags/FeatureFlags';
 
 const logger = getLogger(__filename);
-const DESKTOP_SHARE_RATE = 500000;
+const DESKTOP_SHARE_RATE = 1500000;
 const LD_BITRATE = 200000;
-const SD_BITRATE = 700000;
+const SD_BITRATE = 1100000;
 const SIM_LAYER_1_RID = '1';
 const SIM_LAYER_2_RID = '2';
 const SIM_LAYER_3_RID = '3';

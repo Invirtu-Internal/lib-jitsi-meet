@@ -8,7 +8,7 @@ const logger = require('@jitsi/logger').getLogger(__filename);
 /**
  * The default frame rate for Screen Sharing.
  */
-export const SS_DEFAULT_FRAME_RATE = 5;
+export const SS_DEFAULT_FRAME_RATE = 10;
 
 /**
  * Handles obtaining a stream from a screen capture on different browsers.
